@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yhaohannah Lima 👋
+### Olá! Eu sou a Yhaohannah Lima 
 
 - 🌱 Atualmente estou estudando React e Node.js
 

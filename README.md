@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yhaohannah Lima 
+### Olá! Eu sou a Yhaohannah Lima 😄
 
 <h3>🌈 Sobre mim: </h3>
 

@@ -1,12 +1,7 @@
 ### Olá! Eu sou a Yhaohannah Lima 😄
-
-<br/>
-
 <h3>🌈 Sobre mim: </h3>
 <p> :book: Estou aprendendo mais sobre React.js e Node.js. </p>
 
-<br/>
-  
 <h3>✉ Contato:</h3>
 <p>
 <a href="https://www.linkedin.com/in/yhaohannah-lima-954690216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

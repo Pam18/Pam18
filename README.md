@@ -18,13 +18,17 @@
   
 <h3>🔨 Tecnologias</h3>  
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="CSS" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">  
-  <img align="center" alt="Js" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Node" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img align="center" alt="PostgreSQL" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="left" alt="HTML" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="left" alt="CSS" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">  
+  <img align="left" alt="Js" height="42px" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="React" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="left" alt="Node" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+  <img align="left" alt="PostgreSQL" height="42px" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="left" alt="Git" height="42px" width="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/>
+  <img alt="Figma" height="42px" width="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"/>
 </div>
+<br/>
+<br/>
 <br/>
 <br/>
 

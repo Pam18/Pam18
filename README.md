@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Yhaohannah Lima 😄
 <h3>🌈 Sobre mim: </h3>
-<p> :book: Estou aprendendo mais sobre React.js e Node.js. </p>
+<p> :book: Estou aprendendo mais sobre Java. </p>
 
 <br/>
 
